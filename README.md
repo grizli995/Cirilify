@@ -1,5 +1,5 @@
 # Cirilify: Google Workspace Add-on
-Cirilify is a Google Workspace Add-on that enables seamless conversion between Latin and Cyrillic scripts in Google Docs, Sheets, and Slides. Convert selected text with a single click, effortlessly bridging language barriers and enhancing the accessibility of your documents.
+Cirilify is a Google Workspace Add-on that enables seamless conversion between Serbian Latin and Cyrillic scripts in Google Docs, Sheets, and Slides. Convert selected text with a single click, effortlessly bridging language barriers and enhancing the accessibility of your documents.
 
 ![Ћ (3)](https://github.com/grizli995/Cirilify/assets/24281409/30bb5166-5b03-4ad9-bed9-991463022fe1)
 
