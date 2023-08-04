@@ -1,0 +1,24 @@
+Privacy Policy for Cirilify
+Introduction
+This privacy policy ("Policy") describes how the Cirilify add-on ("We", "Us", or "Our") collects, protects, and uses the personal data received from the users of the Cirilify Google Workspace Add-on ("You", "Your", or "User"). It also describes the choices available regarding our use of Your personal data.
+
+By using the Cirilify add-on, You agree to the collection and use of information in accordance with this Policy.
+
+Information Collection and Use
+Types of Data Collected
+Cirilify does not collect, store, or process any personal or identifiable information from You. The add-on only performs actions on the selected text within Google Docs, Sheets, and Slides without storing or transmitting data elsewhere.
+
+Use of Data
+We use the selected text solely for the purpose of conversion between Latin and Cyrillic scripts. No information is stored or shared with third parties.
+
+Security
+We value Your trust in providing us Your data, thus we strive to use acceptable means of protecting it. However, remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and We cannot guarantee absolute security.
+
+Links to Other Sites
+The add-on may contain links to other sites. If You click on a third-party link, You will be directed to that site. Note that these external sites are not operated by Us. Therefore, We strongly advise You to review the privacy policy of these websites.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, We advise You to review this page periodically for any changes. These changes are effective immediately after they are posted on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us through our GitHub page.
