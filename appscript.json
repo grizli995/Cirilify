@@ -1,0 +1,39 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/documents.currentonly",
+    "https://www.googleapis.com/auth/presentations", 
+    "https://www.googleapis.com/auth/spreadsheets",
+    "https://www.googleapis.com/auth/script.external_request"
+  ],
+  "runtimeVersion": "V8",
+  "urlFetchWhitelist": [
+  ],
+  "addOns": {
+    "common": {
+      "name": "Cirilify",
+      "logoUrl": "https://github.com/google/material-design-icons/blob/master/png/editor/short_text/materialicons/48dp/2x/baseline_short_text_black_48dp.png?raw=true",
+      "layoutProperties": {
+        "primaryColor": "#2772ed"
+      }
+    },
+    "docs": {
+    "homepageTrigger": {
+      "runFunction": "onHomepageDocs"
+    }
+  },
+  "sheets": {
+    "homepageTrigger": {
+      "runFunction": "onHomepageSheets"
+    }
+  },
+  "slides": {
+    "homepageTrigger": {
+      "runFunction": "onHomepageSlides"
+    }
+  }
+  }
+}
